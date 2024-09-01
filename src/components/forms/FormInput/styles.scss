@@ -1,0 +1,20 @@
+.formRow {
+    input,
+    &.checkoutInput select {
+        display: block;
+        width: 100%;
+        font-size: 1.7rem;
+        font-weight: 400;
+        line-height: 1;
+        text-align: left;
+        padding: 10px 5px;
+        margin: 10px auto;
+        border: 1px solid black;
+        outline: none;
+    }
+}
+
+label {
+    font-size: 1.7rem;
+    font-weight: 700;
+}

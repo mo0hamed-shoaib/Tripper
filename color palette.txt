@@ -1,0 +1,14 @@
+palette 1:
+paige: #f0e3ca
+orange: #ff8303
+darker orange: #a35709
+dark grey: #1b1a17
+====================
+palette 2:
+paige: #f9e0ae
+orange: #fc8621
+reddish orange: #c24914
+darker reddish orange: #682c0e
+====================
+cutom orange: #E89B19
+custom grey: #363434
